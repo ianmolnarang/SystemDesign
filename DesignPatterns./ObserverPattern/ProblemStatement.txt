@@ -1,0 +1,7 @@
+The question is asked in the walmart; to design the notify() button which appears when the iphone gets out of stock>
+
+
+so to implement that we will use the observer pattern now;
+
+
+observable <-> observer 

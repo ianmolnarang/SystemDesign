@@ -1,0 +1,3 @@
+// prototype -> copy
+
+It is used when we have to make a copy/clone of the given object.
